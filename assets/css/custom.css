@@ -1,0 +1,19 @@
+.wpcf7-response-output {
+    display: none !important;
+}
+.thanks-fb span {
+   height: 100px !important;
+   text-align: left; !important;
+}
+
+.thanks-back span {
+    height: 100px !important;
+}
+
+.thanks-back__btn {
+    width: 200px !important;
+}
+
+.thanks-fb__btn {
+    width: 200px !important;
+}
